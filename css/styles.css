@@ -249,8 +249,7 @@ img {
 .team-item {
   display: flex;
   flex-direction: column;
-  margin: 0 16px;
-  padding: 32px 0;
+  padding: 32px 16px;
 }
 
 .team-item-title {
